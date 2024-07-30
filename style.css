@@ -1,0 +1,12 @@
+table{
+border: 1px solid;  
+margin-left: 350px;
+margin-top: 100px;  
+background-size: cover;
+background-repeat: no-repeat;
+}
+tr,th,td{
+border: 1px solid;
+width: 150px; 
+  
+}
